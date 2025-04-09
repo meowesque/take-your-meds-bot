@@ -1,2 +1,4 @@
-FROM nodejs:nodejs AS FINAL 
+FROM node:alpine AS BUILD
+
+FROM node:alpine as FINAL
 
