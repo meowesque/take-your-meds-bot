@@ -1,0 +1,5 @@
+# NodeJS files
+/node_modules
+
+# Discord configuration files
+config.json
